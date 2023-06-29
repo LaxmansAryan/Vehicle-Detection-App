@@ -14,6 +14,9 @@ Make sure you have the following dependencies installed:
 - OpenCV
 - NumPy
 
+## SCREENSHOT
+<img width="960" alt="final" src="https://github.com/LaxmansAryan/Vehicle-Detection-App/assets/102072945/a774bc2a-7373-4d5d-8a73-38154ef1ed1f">
+
 ## Usage
 - Clone the repository:
   git clone https://github.com/LaxmansAryan/Vehicle-Detection-App.git
