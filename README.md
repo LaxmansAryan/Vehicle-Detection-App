@@ -15,7 +15,7 @@ Make sure you have the following dependencies installed:
 - NumPy
 
 ## SCREENSHOT
-<img width="960" alt="final" src="https://github.com/LaxmansAryan/Vehicle-Detection-App/assets/102072945/a774bc2a-7373-4d5d-8a73-38154ef1ed1f">
+<img width="960" alt="final" src="https://github.com/LaxmansAryan/Vehicle-Detection-App/assets/102072945/87b6492e-a885-42ec-aed7-ad5032aa6cf3">
 
 ## Usage
 - Clone the repository:
